@@ -2,6 +2,12 @@
 
 `.ai` domains are costly, so we freely offer the `foo._.moeru.ai` domain for open-source projects.
 
+## Requirements
+
+- Your project is related to [Moe (萌え)](https://en.wikipedia.org/wiki/Moe_(slang)) + [AI (Artificial Intelligence)](https://en.wikipedia.org/wiki/Artificial_intelligence) or some Moeru AI project.
+- Your project has an [OSI-approved](https://opensource.org/licenses) or public domain (CC0, WTFPL, Unlicense) license.
+- Your project has been maintained for more than three months and has more than 10 stars, or has been maintained for more than one month and has more than 30 stars.
+
 ## Register
 
 > TODO
